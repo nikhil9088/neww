@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dgdgbdf
+=======
+my name is nikhil
+>>>>>>> 2de197e8b252795ca8d135ec27a3651e743c17b4
